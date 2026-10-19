@@ -1,0 +1,2 @@
+# Qa_CheckerCypress
+CyPress
